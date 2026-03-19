@@ -4,7 +4,7 @@
 
 ## Team Members & Roles
 
-* Timothy JUma – Product domain & services
+* Timothy Juma – Product domain & services
 * Member 2 – Material domain & services
 * Member 3 – Impact calculation strategies
 * Member 4 – Architecture & UML diagrams
