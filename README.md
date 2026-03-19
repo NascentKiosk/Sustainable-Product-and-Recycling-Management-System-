@@ -1,10 +1,10 @@
-## Sustainable Product and Recycling Management System (SDG 12)
+## Sustainable Product and Recycling Management System
 
 ---
 
 ## Team Members & Roles
 
-* Member 1 – Product domain & services
+* Timothy JUma – Product domain & services
 * Member 2 – Material domain & services
 * Member 3 – Impact calculation strategies
 * Member 4 – Architecture & UML diagrams
