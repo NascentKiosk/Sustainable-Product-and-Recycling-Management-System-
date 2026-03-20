@@ -5,10 +5,10 @@
 ## Team Members & Roles
 
 * Timothy Juma – Product domain & services
-* Member 2 – Material domain & services
+* Bruno Ihezie – Material domain & services
 * Member 3 – Impact calculation strategies
 * Member 4 – Architecture & UML diagrams
-* Member 5 – Testing & CI setup
+* Jannatul Bushra – Testing & CI setup
 
 ## Project Overview
 
